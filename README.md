@@ -55,7 +55,7 @@
 # 🚀 Featured Projects
 
 ## 🛒 Blinkit Clone
-Built using HTML, CSS & JavaScript with responsive modern UI design.
+Built using HTML & CSS with responsive modern UI design.
 
 ## 🎬 Netflix Clone
 Responsive Netflix inspired landing page built using HTML & CSS.
