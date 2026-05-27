@@ -10,7 +10,7 @@
 # 🚀 About Me
 
 - 🌱 Currently learning MERN Stack Development
-- 📚 Advanced DSA in C Completed ✅
+- 📚 DSA in C Completed ✅
 - 💻 Currently Learning C++ & Java
 - 💡 Focused on Full Stack Development
 - 🎯 Goal: Become a Professional Full Stack Developer
